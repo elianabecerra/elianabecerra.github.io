@@ -18,8 +18,8 @@ if (usingFallbackSiteUrl) {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://elibecerra44.github.io',
-	base: '/portfolio',
+	site: 'https://elianabecerra.github.io',
+	
 	integrations: [
 		mdx(),
 		sitemap({
