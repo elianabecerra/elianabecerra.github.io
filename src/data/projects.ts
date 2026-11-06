@@ -32,7 +32,7 @@ export const projects: Project[] = [
 	},
 	{
 		name: 'UX CHALLENGE · SOCIAL APP',
-		title: 'App para mantener encuentros frecuentes con tu grupo de amigos',
+		title: 'App para mantener encuentros frecuentes con tu grupo de amigos, y no perderte ninguna juntada',
 		description:
 			'Una experiencia pensada para grupos con agendas cambiantes, que ayuda a encontrar el mejor momento para verse y adaptarse cuando surgen imprevistos.',
 		background: 'cyan',
