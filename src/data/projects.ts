@@ -1,7 +1,7 @@
 import type { ImageMetadata } from 'astro';
 import cliengoOnboardingImage from '../assets/images/cliengo-home.png';
-import juntemonoshome from '../assets/images/juntemonos-home.webp';
-import bowpayhome from '../assets/images/bowpay-home.webp';
+import juntemonoshome from '../assets/images/juntemonos-home.png';
+import bowpayhome from '../assets/images/bowpay-home.png';
 
 export type Project = {
 	name: string;
