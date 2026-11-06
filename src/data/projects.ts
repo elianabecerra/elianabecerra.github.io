@@ -1,5 +1,5 @@
 import type { ImageMetadata } from 'astro';
-import cliengoOnboardingImage from '../assets/images/cliengo-home.webp';
+import cliengoOnboardingImage from '../assets/images/cliengo-home.png';
 import juntemonoshome from '../assets/images/juntemonos-home.webp';
 import bowpayhome from '../assets/images/bowpay-home.webp';
 
